@@ -1,4 +1,5 @@
 **Step 1: Solve all 14 clues**
+
 The hint is in clue #3: "AI" is "arguably, the story of our time" 
 Every single answer must start with A and end with I.
 
@@ -20,6 +21,7 @@ Every single answer must start with A and end with I.
 | 14 | our nearest neighbors, in some sense                                      | **ALPHA CENTAURI**   |
 
 **Step 2: Sorting**
+
 Each answer has a unique letter-count (after stripping non-letters):
 ALI → 3, ALUMNI → 6, AI → 2, AMAZINGRANDI → 12, ANTONIOSALIERI → 14, AKHI → 4, ACTII → 5, ACTIVSCENEI → 11, AFGHANI → 7, AMERIGOVESPUCCI → 15, AQUEMINI → 8, ARTEMISII → 9, ANNODOMINI → 10, ALPHACENTAURI → 13
 
@@ -30,6 +32,7 @@ ALI (length 3) started at position 1, moves to position 3 → moved 2 spots → 
 AMAZING RANDI (length 12) started at position 4, moves to position 12 → moved 8 spots → extract letter at index 7: R
 
 **Step 3: Extract Final Clue**
+
 Using the numbers given under the blanks as extraction indices:
 | Extraction # | Target Answer    | Moved | Letter |
 | ------------ | ---------------- | ----- | ------ |
@@ -51,5 +54,6 @@ Using the numbers given under the blanks as extraction indices:
 Grouped (6 + 5 + 3): GEORGE LUCAS HIT
 
 **Step 4: Solve Final Clue**
+
 George Lucas's iconic hit film: **AMERICAN GRAFITTI**
 (Also follows the A...I pattern)
