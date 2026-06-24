@@ -7,3 +7,5 @@ The first 5 square numbers are: 1, 4, 9, 16, 25, and the sum of the odd squares 
 Among the first 624 thousand square numbers, what is the sum of all the odd squares?
 '''
 
+n = 312000 #624000 / 2 gives odd numbers in range [1, 623999]
+print(n * (2*n - 1) * (2*n + 1) // 3)
